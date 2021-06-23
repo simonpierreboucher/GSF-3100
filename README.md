@@ -9,6 +9,9 @@ Note 1 : [Mathématique Financière des Obligations](https://github.com/simonpie
 Note 2: [Marchés des Capitaux Volatilité dans le marché obligataire](https://github.com/simonpierreboucher/GSF-3100/blob/85c5df4e3ddc01a4c429eb1875aa8f70a70e920b/NOTE_2/Volatilite%CC%81_marche%CC%81_obligataire.pdf)
 
 Note 3 : [Structure des taux d’intérêt]()
+
 Note 4 : [Marché monétaire]()
+
 Note 5 : [Marché obligataire Gouvernemental]()
+
 Note 6 : [Gestion de portefeuille obligataire]()
