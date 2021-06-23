@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Relation risque-rendement}{2}{section.1}%
+\contentsline {section}{\numberline {2}Composantes du taux de rendement}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1} Mesures de la prime de risque}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3} Courbe des rendements à l’échéance}{4}{section.3}%
+\contentsline {section}{\numberline {4}Taux de rendement au comptant}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Structure à terme des taux d’intérêt}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Construction des $z_t$}{5}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Courbe des rendements à l’échéance au pair}{5}{section.5}%
+\contentsline {section}{\numberline {6}Taux de rendement à terme}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Trouver $f_{t,n}$}{6}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Exemples}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Exemple 1}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Exemple 2}{7}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Exemple 3}{8}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Exemple 4}{8}{subsection.7.4}%
+\contentsline {section}{\numberline {8} Formes de la structure à terme des taux}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Théorie des anticipations pures}{9}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Théorie de la prime de liquidité}{10}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Théorie de la segmentation du marché}{10}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Théorie des habitats préférés}{11}{subsection.8.4}%
